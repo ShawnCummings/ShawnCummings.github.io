@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shawn Cummings"
 title_separator          : "-"
 name                     : &name "Shawn Cummings"
 description              : &description "Graduate student at UConn"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shawn Cummings"
   avatar           : "profile.png"
-  bio              : "Graduate student at the Universtiy of Connecti"
-  location         : "Location"
+  bio              : "Graduate student in the Laboratory for Spoken Language Processing at the University of Connecticut"
+  location         : "UConn"
   employer         :
   pubmed           :
   googlescholar    :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
